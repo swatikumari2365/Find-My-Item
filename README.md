@@ -71,7 +71,8 @@ Ensure you have the following installed:
 ---
 
 ## 📷 Screenshots
-(Add screenshots of your application UI here)
+![Screenshot 2024-03-29 160559](https://github.com/user-attachments/assets/e9af1c2b-331b-4c4a-aa8e-1ce451911615)
+
 
 ---
 
@@ -91,5 +92,5 @@ This project is licensed under the MIT License.
 ---
 
 ## 📧 Contact
-For any inquiries or suggestions, feel free to contact me via email: **your-email@example.com**
+For any inquiries or suggestions, feel free to contact me via email: **kumari.swati2365@gmail.com**
 
