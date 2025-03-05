@@ -72,9 +72,6 @@ Ensure you have the following installed:
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/96a79ef8-271c-464e-a33b-318c120ccb42)
-![image](https://github.com/user-attachments/assets/92578dcd-5e22-4d94-b150-050063b3bc93)
-
-
 
 
 ---
